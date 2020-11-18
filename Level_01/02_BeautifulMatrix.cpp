@@ -1,7 +1,7 @@
 /**
- * Author  : BurninTiles
+ * Author  : BurningTiles
  * Created : 2020-10-02 16:14:02
- * Link    : GitHub.com/BurninTiles
+ * Link    : BurningTiles.github.io
  * Program : Beautiful Matrix
 **/
 

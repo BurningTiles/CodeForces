@@ -1,7 +1,7 @@
 /**
- * Author  : BurninTiles
+ * Author  : BurningTiles
  * Created : 2020-10-24 10:41:18
- * Link    : GitHub.com/BurninTiles
+ * Link    : BurningTiles.github.io
  * Program : 
 **/
 
